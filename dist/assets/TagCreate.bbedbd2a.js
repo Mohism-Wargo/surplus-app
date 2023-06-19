@@ -1,0 +1,1 @@
+import{B as t,M as a}from"./index.79152699.js";import{T as e}from"./TagForm.74521170.js";import{bD as n,bE as o}from"./vendor.6a6b1e94.js";import"./vant.6410adee.js";const i=n({setup:(r,l)=>()=>o(a,null,{title:()=>"\u65B0\u5EFA\u6807\u7B7E",icon:()=>o(t,null,null),default:()=>o(e,null,null)})});export{i as TagCreate,i as default};
